@@ -2,6 +2,7 @@ import streamlit as st
 from neuron import Neuron
 
 # Configuración inicial de la aplicación
+st.image("img/neuron.jpg", use_container_width=True)
 st.title("Simulador de Neurona")
 st.write("Elige el número de entradas/pesos que tendrá la neurona")
 
