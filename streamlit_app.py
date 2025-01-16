@@ -1,4 +1,5 @@
 import streamlit as st
+from neuron import Neuron
 
 # Configuración inicial de la aplicación
 st.title("Simulador de Neurona")
